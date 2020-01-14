@@ -21,7 +21,6 @@ class QrScanner extends Component {
     return (
       <div>
         {/* <div className="title">{this.state.result}</div> */}
-
         <div>
           <div className="header">
             <div className="inner-header flex">
