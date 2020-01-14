@@ -96,7 +96,6 @@
         "esSpecCompliant": true
       }
     ],
-    "linebreak-style": [true],
     "typedef": [
       true,
       "call-signature",
